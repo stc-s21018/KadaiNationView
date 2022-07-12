@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KadaiNationView</string>
+    <string-array name="lv_contry">
+        <item>日本</item>
+        <item>イタリア</item>
+        <item>ドイツ</item>
+        <item>アメリカ</item>
+        <item>イギリス</item>
+        <item>フランス</item>
+        <item>ロシア</item>
+        <item>中国</item>
+        <item>オーストリア</item>
+        <item>ハンガリー</item>
+        <item>カナダ</item>
+        <item>台湾</item>
+        <item>ノルウェー</item>
+        <item>アイスランド</item>
+        <item>ベトナム</item>
+    </string-array>
+</resources>
